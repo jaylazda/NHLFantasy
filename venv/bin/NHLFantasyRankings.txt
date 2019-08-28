@@ -1,0 +1,133 @@
+This file contains data taken from the top 250 players in the 2019-2020 ESPN NHL fantasy hockey rankings.
+
+Number of players ranked in the top 250 ESPN Fantasy Rankings per team:
+Anaheim Ducks: 7
+Arizona Coyotes: 8
+Boston Bruins: 9
+Buffalo Sabres: 5
+Calgary Flames: 9
+Carolina Hurricanes: 7
+Chicago Blackhawks: 9
+Colorado Avalance: 7
+Columbus Blue Jackets: 9
+Dallas Stars: 8
+Detroit Red Wings: 5
+Edmonton Oilers: 8
+Florida Panthers: 10
+Los Angeles Kings: 5
+Minnesota Wild: 8
+Montreal Canadiens: 8
+Nashville Predators: 10
+New Jersey Devils: 8
+New York Islanders: 7
+New York Rangers: 8
+Ottawa Senators: 5
+Philadelphia Flyers: 8
+Pittsburgh Penguins: 6
+St-Louis Blues: 10
+San Jose Sharks: 8
+Tampa Bay Lightning: 10
+Toronto Maple Leafs: 10
+Vancouver Canucks: 8
+Vegas Golden Knights: 10
+Washington Capitals: 8
+Winnipeg Jets: 9
+
+Top ranked player per team:
+Anaheim Ducks: John Gibson rank 69
+Arizona Coyotes: Phil Kessel rank 104
+Boston Bruins: David Pastrnak rank 7
+Buffalo Sabres: Jack Eichel rank 34
+Calgary Flames: Johnny Gaudreau rank 6
+Carolina Hurricanes: Sebastian Aho rank 26
+Chicago Blackhawks: Patrick Kane rank 9
+Colorado Avalance: Nathan MacKinnon rank 2
+Columbus Blue Jackets: Cam Atkinson rank 102
+Dallas Stars: Tyler Seguin rank 11
+Detroit Red Wings: Dylan Larkin rank 41
+Edmonton Oilers: Connor McDavid rank 3
+Florida Panthers: Aleksander Barkov rank 22
+Los Angeles Kings: Anze Kopitar rank 113
+Minnesota Wild: Matt Dumba rank 78
+Montreal Canadiens: Carey Price rank 35
+Nashville Predators: Filip Forsberg rank 52
+New Jersey Devils: Taylor Hall rank 18
+New York Islanders: Anders Lee rank 88
+New York Rangers: Artemi Panarin rank 45
+Ottawa Senators: Thomas Chabot rank 127
+Philadelphia Flyers: Claude Giroux rank 46
+Pittsburgh Penguins: Sidney Crosby rank 23
+St-Louis Blues: Vladimir Tarasenko rank 29
+San Jose Sharks: Erik Karlsson rank 20
+Tampa Bay Lightning: Nikita Kucherov rank 1
+Toronto Maple Leafs: John Tavares rank 5
+Vancouver Canucks: Elias Pettersson rank 70
+Vegas Golden Knights: Mark Stone rank 44
+Washington Capitals: Alex Ovechkin rank 8
+Winnipeg Jets: Mark Scheifele rank 13
+
+NHL teams ranked by their best player:
+Tampa Bay Lightning:  Nikita Kucherov rank 1
+Colorado Avalance:  Nathan MacKinnon rank 2
+Edmonton Oilers:  Connor McDavid rank 3
+Toronto Maple Leafs:  John Tavares rank 5
+Calgary Flames:  Johnny Gaudreau rank 6
+Boston Bruins:  David Pastrnak rank 7
+Washington Capitals:  Alex Ovechkin rank 8
+Chicago Blackhawks:  Patrick Kane rank 9
+Dallas Stars:  Tyler Seguin rank 11
+Winnipeg Jets:  Mark Scheifele rank 13
+New Jersey Devils:  Taylor Hall rank 18
+San Jose Sharks:  Erik Karlsson rank 20
+Florida Panthers:  Aleksander Barkov rank 22
+Pittsburgh Penguins:  Sidney Crosby rank 23
+Carolina Hurricanes:  Sebastian Aho rank 26
+St-Louis Blues:  Vladimir Tarasenko rank 29
+Buffalo Sabres:  Jack Eichel rank 34
+Montreal Canadiens:  Carey Price rank 35
+Detroit Red Wings:  Dylan Larkin rank 41
+Vegas Golden Knights:  Mark Stone rank 44
+New York Rangers:  Artemi Panarin rank 45
+Philadelphia Flyers:  Claude Giroux rank 46
+Nashville Predators:  Filip Forsberg rank 52
+Anaheim Ducks:  John Gibson rank 69
+Vancouver Canucks:  Elias Pettersson rank 70
+Minnesota Wild:  Matt Dumba rank 78
+New York Islanders:  Anders Lee rank 88
+Columbus Blue Jackets:  Cam Atkinson rank 102
+Arizona Coyotes:  Phil Kessel rank 104
+Los Angeles Kings:  Anze Kopitar rank 113
+Ottawa Senators:  Thomas Chabot rank 127
+
+NHL teams ranked by total number of ranked fantasy players:
+Tampa Bay Lightning: 10
+Toronto Maple Leafs: 10
+Florida Panthers: 10
+St-Louis Blues: 10
+Vegas Golden Knights: 10
+Nashville Predators: 10
+Calgary Flames: 9
+Boston Bruins: 9
+Chicago Blackhawks: 9
+Winnipeg Jets: 9
+Columbus Blue Jackets: 9
+Edmonton Oilers: 8
+Washington Capitals: 8
+Dallas Stars: 8
+New Jersey Devils: 8
+San Jose Sharks: 8
+Montreal Canadiens: 8
+New York Rangers: 8
+Philadelphia Flyers: 8
+Vancouver Canucks: 8
+Minnesota Wild: 8
+Arizona Coyotes: 8
+Colorado Avalance: 7
+Carolina Hurricanes: 7
+Anaheim Ducks: 7
+New York Islanders: 7
+Pittsburgh Penguins: 6
+Buffalo Sabres: 5
+Detroit Red Wings: 5
+Los Angeles Kings: 5
+Ottawa Senators: 5
